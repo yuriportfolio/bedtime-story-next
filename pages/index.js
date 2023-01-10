@@ -1,7 +1,6 @@
 import Head from "next/head";
 import { useState } from "react";
 import styles from "./index.module.css";
-import {background} from "../public/background.png";
 
 export default function Home() {
   const [storyPrompt, setStoryPrompt] = useState("");
@@ -41,7 +40,7 @@ export default function Home() {
         <link rel="icon" href="/book.ico" />
       </Head>
       <main className={styles.main}>
-      <img className={styles.bg} src="/background.png" />
+      <img className={styles.bg} src="/background.png" alt="background image" />
         <form onSubmit={onSubmit}>
           <input
             type="text"

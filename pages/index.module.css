@@ -18,9 +18,8 @@
   position: fixed;
   top: 0;
   width: 100vw;
-  height: 100vh;
+  height: 120vh;
   z-index: -1;
-  overflow: hidden;
   padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 .main,
