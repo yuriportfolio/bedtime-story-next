@@ -2,7 +2,7 @@ repo_name: yuriportfolio/bedtime-story-next
 report_id: 6a1abc37520d4b9743a0ea6e9412e0fc
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:07:42+00:00'
+timestamp: '2024-02-29T18:21:14+00:00'
 requested_by: hiterharris
 provider: github
 branch: main
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/yuriportfolio/bedtime-story-next
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.1.1
   open_source: true
